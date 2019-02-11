@@ -1,0 +1,7 @@
+plugins:
+  code_review_webhooks_enabled:
+    default: false
+    client: true
+  code_review_webhooks_review_site_url:
+    default: ''
+    client: false
