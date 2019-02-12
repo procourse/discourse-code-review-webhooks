@@ -1,0 +1,5 @@
+en:
+  site_settings:
+    code_review_webhooks_enabled: "Enable webhook receiver for Code Review posts"
+    code_review_webhooks_review_site_url: "URL for the Code Review instance - https://example.com"
+    code_review_webhooks_post_user: "User ID used to create commit posts - -2"

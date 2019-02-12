@@ -1,0 +1,4 @@
+en:
+  js:
+    action_codes:
+      commit: "New Commit by %{who}"

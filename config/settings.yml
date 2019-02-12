@@ -5,3 +5,6 @@ plugins:
   code_review_webhooks_review_site_url:
     default: ''
     client: false
+  code_review_webhooks_post_user:
+    default: '-2'
+    client: false
